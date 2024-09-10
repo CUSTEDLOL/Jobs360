@@ -4,4 +4,5 @@ Developed frontend using Tkinter, creating an intuitive and visually appealing u
 Table of Contents
 
 [Project report](https://docs.google.com/document/d/1IrnPedDwHi5010fCifLkzwisQ8yNybnQ4ww1JsaVPQ0/edit?usp=sharing)
+
 [Source code](https://github.com/CUSTEDLOL/Jobs360/blob/main/jobs360.py)
